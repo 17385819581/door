@@ -21,7 +21,7 @@ By mining data and creating statistical charts, Pi Door helps users understand t
 Music has no borders
 Music is a language that transcends international boundaries
 
--Hi, I’m @17385819581
+- Hi, I’m @17385819581
 - I’m a student
 - I’m a pioneer in the Chinese region
 - The Pi@17385819581 of China
