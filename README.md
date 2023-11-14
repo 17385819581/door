@@ -20,10 +20,12 @@ By mining data and creating statistical charts, Pi Door helps users understand t
 [PiOS](https://github.com/pi-apps/door/blob/main/LICENSE.md)
 Music has no borders
 Music is a language that transcends international boundaries
+
 -Hi, I’m @17385819581
 - I’m a student
 - I’m a pioneer in the Chinese region
 - The Pi@17385819581 of China
 - ......
+- 
 https://github.com/17385819581/door/assets/136985670/ddd0ecf3-9239-487c-9746-ac3bed41ff7e
 
